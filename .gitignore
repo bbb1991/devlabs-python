@@ -1,0 +1,9 @@
+#Compiled python file
+*.pyc
+
+# PyCharm settings file
+.idea
+
+# Other files
+__init__.py
+Test.py

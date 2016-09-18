@@ -1,13 +1,13 @@
 # coding=utf-8
 # Пример импорта модуля
 
-import urllib2
+import requests
 
 URL = "https://google.com"
 
-response = urllib2.urlopen(url=URL)
+response = requests.get(URL)
 
-print "Status code", response.code
+print("Status code", response.status_code)
 
-print "Headers: "
-print response.info()
+print("Headers: ")
+print(response.headers)

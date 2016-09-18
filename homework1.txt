@@ -159,10 +159,3 @@
         "Проект Эшелон"
     Вывод:
         "Пркт шлн"
-
-
-К прочтению.
-Типы данных: http://younglinux.info/python/variable.php
-Различия питона 2 и 3: https://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html
-Строки: https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
-Работа с файлами: https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html

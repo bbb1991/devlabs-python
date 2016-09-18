@@ -1,0 +1,39 @@
+Типы данных:
+http://younglinux.info/python/variable.php
+
+Различия питона 2 и 3:
+https://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html
+
+Строки:
+https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+
+Работа с файлами:
+https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html
+
+List:
+https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html
+
+Tuple:
+https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html
+
+Set:
+https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html
+
+import:
+https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html
+https://wombat.org.ua/AByteOfPython/modules.html
+
+os:
+https://pythonworld.ru/moduli/modul-os.html
+
+sys:
+https://docs.python.org/3/library/sys.html
+
+urllib2:
+http://python-for-web.blogspot.com/2014/06/urllib2-python.html
+
+random:
+http://ps.readthedocs.io/ru/latest/random.html
+
+Рекурсия:
+http://pythontutor.ru/lessons/functions/

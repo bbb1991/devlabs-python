@@ -37,3 +37,28 @@ http://ps.readthedocs.io/ru/latest/random.html
 
 Рекурсия:
 http://pythontutor.ru/lessons/functions/
+
+unittest
+https://pythonworld.ru/moduli/modul-unittest.html
+https://habrahabr.ru/post/121162/
+http://python-lab.ru/documentation/27/stdlib/unittest.html
+
+Регулярные выражения:
+https://tproger.ru/translations/regular-expression-python/
+https://habrahabr.ru/post/115825/
+https://habrahabr.ru/post/60369/
+
+Создание классов:
+http://younglinux.info/oopython/objects.php
+http://mit.spbau.ru/files/Python_Classes.pdf
+https://pythonworld.ru/osnovy/obektno-orientirovannoe-programmirovanie-obshhee-predstavlenie.html
+
+Работа с XML:
+https://habrahabr.ru/post/61523/
+http://pep8.ru/doc/dive-into-python-3/14.html
+https://gist.github.com/Artem-Mamchych/1636265
+http://help.ubuntu.ru/fullcircle/36/python_%D1%87_10
+
+Работа с JSON:
+https://pythonworld.ru/moduli/modul-json.html
+http://www.py-my.ru/post/4bfb3c6a1d41c846bc0000b5

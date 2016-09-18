@@ -37,7 +37,7 @@ pep8.
 
 Lesson 5.
 Регулярные выражения.
-модули re
+модули re, unittest
 
 Lesson 6.
 Модули xml, json
